@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matéo Deterne</h1>
-<h3 align="center">Welcome to my github profil.</h3>
+<h3 align="center">Welcome to my github profile</h3>
 
 - 🌍 Based in **Limoge in France**
 
