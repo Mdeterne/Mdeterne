@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently a student of **Bachelor in Computer Science**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
