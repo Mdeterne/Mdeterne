@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matéo Deterne</h1>
 <h3 align="center">Welcome to my portfolio.</h3>
 
-- 🌱 I’m currently a student of **Bachelor in Computer Science**
+- 🌱 I’m currently a first year student of **Bachelor in Computer Science**
+
+- 🚀 Currently working on various project in my studies like: [Scrabble](https://github.com/Mdeterne/scrabble)
 
 <p align="left">
 </p>
