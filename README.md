@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a first year student of **Bachelor in Computer Science**
 
-- 🚀 Currently working on various project in my studies like: [Scrabble](https://github.com/Mdeterne/scrabble)
+- 🚀 Currently working on various project in my studies like: [Web_App_Questionnary](https://github.com/Mdeterne/Web_App_Questionnary)
 
 <p align="left">
 </p>
